@@ -100,7 +100,7 @@ class MyApp extends StatelessWidget {
                         ],
                       ),
                       Padding(
-                        padding: const EdgeInsets.all(15.0),
+                      padding: const EdgeInsets.all(15.0),
                         child: Column(
                           children: [
                           const Text("Pique Bilang Wasit Untungkan", style: TextStyle( fontSize: 15, fontWeight: FontWeight.w800,
